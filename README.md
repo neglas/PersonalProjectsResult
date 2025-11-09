@@ -30,10 +30,9 @@ After a couple of rounds of hardware issues I finally managed to find hardware t
 
  I was really pleased with the results, my deepest thanks to Awawa-dev.  
 
-   <figure>
-    <p align="center">
-      <img src="Ambilights/AmbiLightResults.gif" width="100%" height="100%"/>
-      
+<figure>
+  <p align="center">
+    <img src="Ambilights/AmbiLightsResults.gif" width="100%" height="100%"/>  
   </p>
 </figure>
 
