@@ -4,7 +4,8 @@ This page is for my personal projects that I do just for fun and to learn new th
 
 ## DIY ambilights
 
-I have always liked the effects of ambilights on Philips Tv's.I thought that for only three times the price and ~20 hours of work I too could have an ambilight TV and I decided that I wanted to try to replicate it, and I found this guide by [Awawa-dev](https://github.com/awawa-dev/HyperSPI).
+I have always liked the effects of ambilights on Philips Tv's.I thought that for only three times the price and ~20 hours of work I too could have an ambilight TV and I decided that I wanted to try to replicate it, and I found this guide by [Awawa-dev](https://github.com/awawa-dev/HyperSPI). 
+
 I followed the instructions, the hardest part where finding hardware that played nicely with eachother. The HDMI splitter, the video grabber and the HDMI cables themself all had to match to be able to get the ambilights working AND stream that sweet 4k res.
 After a couple of rounds of hardware issues I finally managed to find hardware that was cheap and worked. The image processing is done on a RPI 4. The result is sent to a ESP32 Lolin Mini which communicates with the Led Lights.
 
@@ -28,6 +29,14 @@ After a couple of rounds of hardware issues I finally managed to find hardware t
 </figure>
 
  I was really pleased with the results, my deepest thanks to Awawa-dev.  
+
+   <figure>
+    <p align="center">
+      <img src="Ambilights/AmbiLightResults.gif" width="100%" height="100%"/>
+      
+  </p>
+</figure>
+
 
 ## Automatic apartment lights
 
