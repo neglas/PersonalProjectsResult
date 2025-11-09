@@ -49,12 +49,14 @@ After the ambilights I realized that the natural progression was to control ever
 </figure>
 
 
-Currently I can turn on and off all lights by two distinct claps within some timeinterval, I do not understand why that technology disappered but I have wanted a clap-light since I was a kid. Next steps include some light and motion sensors, scaling the apartment lights based on where I am in the apartment, the time of day and how light it is at the time.   
-
+Currently I can turn on and off all lights by two distinct claps within some timeinterval, I do not understand why that technology disappered but I have wanted a clap-light since I was a kid. 
  <figure>
     <p align="center">
       <img src="LightControl/ClapLightsResult.gif" width="100%" height="100%"/>
       
   </p>
 </figure>
+
+
+Next steps include some light and motion sensors, scaling the apartment lights based on where I am in the apartment, the time of day and how light it is at the time.   
 
