@@ -19,7 +19,15 @@ After a couple of rounds of hardware issues I finally managed to find hardware t
   ESP32 and RPI 4 overview. Ended up soldering the ESP32 to a breadboard so I could 
   add bidirectional voltage shifters and keep it neat. Everything is secured in a small case.
 
- 
+
+  <figure>
+    <p align="center">
+      <img src="Ambilights/AmbiLightResults2.jpg" width="100%" height="100%"/>
+      
+  </p>
+</figure>
+
+ I was really pleased with the results, my deepest thanks to Awawa-dev.  
 
 ## Automatic apartment lights
 
