@@ -43,7 +43,7 @@ After the ambilights I realized that the natural progression was to control ever
 
  <figure>
     <p align="center">
-      <img src="LightControl/SensorSetup.jpg" width="100%" height="100%"/>
+      <img src="LightControl/SensorSetup.png" width="100%" height="100%"/>
       
   </p>
 </figure>
