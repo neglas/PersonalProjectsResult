@@ -10,7 +10,7 @@ After a couple of rounds of hardware issues I finally managed to find hardware t
 
   <figure>
     <p align="center">
-      <img src="Ambilights/LolinAndRPI.png" width="100%" height="100%"/>
+      <img src="Ambilights/LolinAndRPI.jpg" width="100%" height="100%"/>
       
       ESP32 and RPI 4 overview. Ended up soldering the ESP32 to a breadboard so I could add bidirectional voltage shifters and keep it neat. Everything is secured in a small case.
   </p>
