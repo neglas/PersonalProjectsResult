@@ -39,7 +39,7 @@ Result on old TV.
 
 ## Automatic apartment lights
 
-After the ambilights I realized that the natural progression was to control every light in the apartment. This would also force me to write my own code for an ESP32. I hooked up some cheap sensors to an ESP32 Wemos D1 mini and got it working. The ESP32 publishes messages, using MQTT, wich the RPI subcribes too. The RPI then determines based on the sensor input what to do with the apartment lights by communicating with the smart bulbs. 
+After the ambilights I realized that the natural progression was to control every light in the apartment. This would also force me to write my own code for an ESP32, not just flashing it. I hooked up some sensors, buttons, and LEDs to an ESP32 Wemos D1 mini and got it working. The ESP32 publishes messages, using MQTT, which the RPI subcribes too. The RPI then determines based on the sensor input what to do with the apartment lights by communicating with the smart bulbs. 
 
  <figure>
     <p align="center">
